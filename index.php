@@ -33,7 +33,8 @@
           </li>
         </ul>
         <ul class="umi-nav ">
-          <li><a href="#" class="umi-col f-shiro umi-active">home</a>
+        <li><button href="#" class="umi-col btn umi-btn-outness-shiro umi-btn-square f-shiro umi-active fs-medium ">
+            <i class="fas fa-globe"></i> Thai</button>
         </li>
         </ul>
     </ul>

@@ -15,12 +15,13 @@
 </head>
 
 <body class="umi-special-blue-bg">
+    <!-- Main navbar -->
   <nav>
     <ul class=" umi-container-full">
       <div class="umi-navbar umi-special-blue-c0">
         <ul class="umi-nav ">
           <div>
-            <a href="#" class="umi-col f-shiro">Brand</a>
+            <a href="./index.php" class="umi-col f-shiro">Brand</a>
           </div>
           <li><a href="#" class="umi-col f-shiro umi-active">Get started</a></li>
           <li><a href="#" class="umi-col f-shiro umi-active">Doc</a></li>
@@ -35,6 +36,25 @@
         <ul class="umi-nav ">
         <li><button href="#" class="umi-col btn umi-btn-outness-shiro umi-btn-square f-shiro umi-active fs-medium ">
             <i class="fas fa-globe"></i> TH</button>
+        </li>
+        </ul>
+    </ul>
+    </div>
+  </nav>
+  <nav>
+    <ul class=" umi-container-full">
+      <div class="umi-navbar umi-special-blue-c2">
+        <ul class="umi-nav ">
+          <div>
+            <a href="./index.php" class="umi-col f-shiro ">UMIStyle</a>
+          </div>
+          <div>
+            <a href="./index.php" class="umi-col f-shiro umi-active">Import</a>
+          </div>
+        </ul>
+        <ul class="umi-nav ">
+        <li><button href="#" class="umi-col btn umi-btn-outness-shiro umi-btn-square f-shiro umi-active fs-medium ">
+            <i class="fas fa-globe"></i> version 1.0.0</button>
         </li>
         </ul>
     </ul>
